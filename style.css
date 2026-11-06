@@ -1,0 +1,29 @@
+
+body {
+    background: linear-gradient(135deg, #001f3f, #00aaff);
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 80px;
+}
+
+.weather {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 350px;
+    margin: auto;
+}
+
+input {
+    padding: 12px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 12px;
+    background: cyan;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
